@@ -1,1 +1,6 @@
-this is the beginning of the second documentation file
+Start (19-02-2024)
+this is the beginning of the second documentation file.
+
+Update 1 (20-02-2024)
+Ver. 0.5 (Release Notes)
+The basic model of the cursor has been added.

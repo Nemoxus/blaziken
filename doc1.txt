@@ -1,2 +1,12 @@
-hello this is the first documentation file
-Project Interactive Cursor
+[Documentation]
+ This project is based on a smooth interactive web cursor. 
+ This project was initiated on 19-02-2024.
+
+ All the rights are reserved to the sole owner, i.e. Shreejata Gupta.
+
+ Note: The basic mouse idea was inspired from Gusev Digital on YouTube.
+ Follow and Subscribe this awesome guy!
+ YouTube: https://www.youtube.com/@GusevDigital
+
+Checkout his Codepen profile for more awesome projects.
+CodePen: https://codepen.io/gusevdigital
