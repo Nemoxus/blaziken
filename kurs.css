@@ -1,10 +1,11 @@
 .circle{
+    --circle-size: 40px;
     position: fixed;
-    width: 40px;
-    height: 40px;
+    width: var(--circle-size);
+    height: var(--circle-size);
     border: 3px solid #4943b8d7;
     border-radius: 100%;
-    top: -20px;
-    left: -20px;
+    top: calc(var(--circle-size)/ 2 * -1);
+    left: calc(var(--circle-size)/ 2 * -1);
     pointer-events: none;
 }
